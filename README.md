@@ -1,2 +1,48 @@
-# POWER-BI-Ecommerce-Sales-Analysis-olist-
-Built a 3-page interactive Power BI dashboard analyzing 99K+ e-commerce orders and ₹16M revenue. Performed data cleaning, transformation, data modeling, and DAX calculations across multiple datasets. Created KPI cards, geographical sales insights, customer satisfaction metrics, and payment analytics to support data-driven business decisions.
+# E-Commerce Sales Analytics Dashboard
+
+## Project Overview
+
+Developed an interactive Power BI dashboard using the Brazilian Olist E-Commerce Dataset.
+
+## Key Insights
+
+- Total Revenue: ₹16M
+- Total Orders: 99K
+- Unique Customers: 96K
+- Average Order Value: ₹160.99
+
+## Dashboard Pages
+
+### Executive Dashboard
+- Revenue Trend Analysis
+- Top Product Categories
+- Order Status Distribution
+- Monthly Order Volume
+
+### Geographical Analysis
+- Revenue by State
+- Customer Distribution
+- Top Cities by Orders
+
+### Customer Experience & Payment Analysis
+- Review Score Distribution
+- Payment Method Analysis
+- Freight Cost Analysis
+- Customer Satisfaction Trends
+
+## Tools Used
+
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Olist E-Commerce Dataset
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- Dashboard Design
+- Business Analytics
+- KPI Development
+- Data Visualization
